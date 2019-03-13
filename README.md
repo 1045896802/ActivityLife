@@ -13,7 +13,7 @@
   
 3.验证Activity的生命周期
   
-  通过Activity涉及到的7种方法来验证Activity的生命周期，关键代码如下所示：
+  为了验证Activity的生命周期，需要通过Activity涉及到的7种方法，关键代码如下所示：
 
     public class MainActivity extends AppCompatActivity {
 
