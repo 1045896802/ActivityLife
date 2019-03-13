@@ -65,7 +65,5 @@
 
     }
 
-4.实验结果
-    
-    如下图所示：
+4.实验结果如下图所示：
 ![Image text](https://raw.githubusercontent.com/1045896802/ActivityLife/master/img/2.png)
