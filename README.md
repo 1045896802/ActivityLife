@@ -1,5 +1,16 @@
-# Activity的生命周期
+# 验证Activity的生命周期
 
+## 一. 实验内容
+
+1.阅读文献了解Activity
+
+  https://developer.android.google.cn/guide/components/activities.html
+
+2.验证Activity的生命周期
+
+  参看上述文档，完成其中生命周期的例子，并设法验证
+
+## 二. Activity相关内容
 1.生命周期状态
 
   Activity生命周期指的是一个从创建到销毁的全过程。Activity的生命周期分为5种状态，分别是启动状态、运行状态、暂停状态、停止状态和销毁状态，
@@ -11,7 +22,7 @@
   
   ![Image text](https://raw.githubusercontent.com/1045896802/ActivityLife/master/img/1.png)
   
-3.验证Activity的生命周期
+## 三. 关键代码
   
   为了验证Activity的生命周期，需要通过Activity涉及到的7种方法，关键代码如下所示：
 
@@ -65,5 +76,5 @@
 
     }
 
-4.实验结果如下图所示：
+## 四. 实验结果及截图：
 ![Image text](https://raw.githubusercontent.com/1045896802/ActivityLife/master/img/2.png)
